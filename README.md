@@ -9,6 +9,6 @@
 #### GUI Design: Create a user-friendly interface with input fields, weather data displays, and visual elements.
 #### Error Handling: Address potential errors during data retrieval or user input.
 #### Data Visualization: Display weather data in an appealing manner, possibly using icons or animations.
-#### Unit Conversion: *Offer unit options for temperature (e.g., Celsius and Fahrenheit).*
+#### Unit Conversion:   **Offer unit options for temperature (e.g., Celsius and Fahrenheit).**
 
 ### Project Demonstration Link -
