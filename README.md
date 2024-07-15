@@ -1,7 +1,7 @@
 # Weather-API
 ## Basic weather app using Python.
 
-## Project discription - It's a graphical weather app with a user-friendly interface (GUI) using libraries like Tkinter or PyQt. Enable users to input their location or use GPS for automatic detection. Provide detailed weather data, including current conditions, hourly forecasts, wind speed, and visual elements like weather icons.
+### Project discription - It's a graphical weather app with a user-friendly interface (GUI) using libraries like Tkinter or PyQt. Enable users to input their location or use GPS for automatic detection. Provide detailed weather data, including current conditions, hourly forecasts, wind speed, and visual elements like weather icons.
 
 ### Key Concepts:
 #### 1.API Integration - *Connect to a weather API and parse JSON data.*
